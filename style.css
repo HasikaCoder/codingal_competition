@@ -1,0 +1,171 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+
+#seven
+{
+    text-align: center;
+    font-size: 45px;
+}
+
+#img_seven_con
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#antarCtica_text
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+#antarctica_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#antarctica_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#asia_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#asia_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#asia_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#europe_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#europe_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#europe_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#australia_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#australia_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#australia_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#s_america_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#s_america_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#s_america_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#n_america_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#n_america_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#n_america_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#africa_text
+{
+    text-align: center;
+    font-size: 40px;  
+}
+
+#africa_para
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#africa_img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
